@@ -205,5 +205,6 @@ int main() {
 ```
 
 Output:
-<img width="400" height="261" alt="image" src="https://github.com/user-attachments/assets/ea1ae91b-3094-4307-b25d-b61979dccc9f" />
 
+
+<img width="400" height="261" alt="image" src="https://github.com/user-attachments/assets/ea1ae91b-3094-4307-b25d-b61979dccc9f" />
